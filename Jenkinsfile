@@ -5,6 +5,3 @@ env.BUILD_LABEL = "WORKSTATION"
 
 //groovy libraries
 nodejs()
-//
-//
-//
