@@ -20,7 +20,7 @@ So to run the catalogue service we choose to run as a normal user and that user 
 ```
 # useradd roboshop
 ```
-
+##
 So let's switch to the `roboshop` user and run the following commands.
 
 ```
